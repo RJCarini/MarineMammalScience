@@ -1,5 +1,5 @@
 # MarineMammalScience
-Literature review of the Journal of Marine Mammal Science 1985-2019
+Literature review of the Journal of Marine Mammal Science (1985-2019)
 
 Source of data: https://onlinelibrary.wiley.com/journal/17487692  
 Marine Mammal Science  
@@ -13,10 +13,10 @@ Online ISSN:1748-7692
 The five columns of data are:   
 **Year:** Year of the Volume-Issue in which the article was published (note: not early release date)  
 **Title:** Title of the article  
-**First Author:** Name of first author  
+**First Author:** Name of the first author  
 **Country:** Primary country affiliation of the first author  
-**Abstract:** Abstract of article  
-**Keywords:** Keywords were submitted by authors at time of manuscript submission  
+**Abstract:** Abstract of the article  
+**Keywords:** Keywords submitted by the authors at the time of manuscript submission  
 
 This data will contribute to a research project that will be presented at the World Marine Mammal Conference in Barcelona, Spain, in December 2019.  
 
