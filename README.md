@@ -9,14 +9,14 @@ ISI Journal Citation Reports © Ranking: 2018:42/108 (Marine & Freshwater Biolog
 Online ISSN:1748-7692  
 © Society for Marine Mammalogy  
 
-Only data for research articles (not notes, reviews, books, errata, etc.) are included.  
+*Only data for research articles (not notes, reviews, books, errata, etc.) are included.*  
 The five columns of data are:   
-Year: Year of the Volume-Issue in which the article was published (note: not early release date)  
-Title: Title of the article  
-First Author: Name of first author  
-Country: Primary country affiliation of the first author  
-Abstract: Abstract of article  
-Keywords: Keywords were submitted by authors at time of manuscript submission  
+**Year:** Year of the Volume-Issue in which the article was published (note: not early release date)  
+**Title:** Title of the article  
+**First Author:** Name of first author  
+**Country:** Primary country affiliation of the first author  
+**Abstract:** Abstract of article  
+**Keywords:** Keywords were submitted by authors at time of manuscript submission  
 
 This data will contribute to a research project that will be presented at the World Marine Mammal Conference in Barcelona, Spain, in December 2019.  
 
