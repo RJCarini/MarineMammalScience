@@ -18,7 +18,7 @@ The five columns of data are:
 **Abstract:** Abstract of the article  
 **Keywords:** Keywords submitted by the authors at the time of manuscript submission  
 
-This data will contribute to a research project that will be presented at the World Marine Mammal Conference in Barcelona, Spain, in December 2019.  
+This data contributed to a research project presented at the World Marine Mammal Conference in Barcelona, Spain, in December 2019.  
 
   
 written by:  
