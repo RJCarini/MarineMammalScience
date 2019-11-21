@@ -7,7 +7,8 @@ This survey is part of a study being conducted by Roxanne J Carini, PhD (the pri
 *Principal Investigator:*  
 Roxanne J Carini, PhD  
 Sea Grant Knauss Fellow  
-Marine Mammal Commission rcarini@mmc.gov; (301) 504-0087  
+Marine Mammal Commission   
+rcarini@mmc.gov; (301) 504-0087  
   
 **Purpose of the Study**  
 The purpose of this survey is to better understand attitudes/opinions and levels of engagement of those who work on marine mammal issues regarding how scientific results are applied to marine mammal conservation, policy, and management. A similar survey was originally designed and conducted in 2007 by Vicki Cornish and Raychelle Daniel, while working for the Ocean Conservancy. The principal investigator is re-administering the survey to assess current attitudes and how they might have changed since 2007. Only minor modifications to the questions have been made to modernize the survey.
@@ -26,5 +27,5 @@ All survey responses will be anonymous. Some demographic information will be col
 Your involvement in this survey is voluntary, and you may choose not to participate or to stop at any time without penalty or any other consequences.
 
 written by:  
-Roxanne J Carini 
+Roxanne J Carini   
 21 November 2019
