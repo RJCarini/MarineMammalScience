@@ -1,5 +1,5 @@
 # MarineMammalScience
-Literature review of the Journal of Marine Mammal Science (1985-2019)
+Literature review of Marine Mammal Science (1985-2019)
 
 Source of data: https://onlinelibrary.wiley.com/journal/17487692  
 Marine Mammal Science  
